@@ -1,3 +1,3 @@
-# OpenProject
-h! noth!ng to see he1e 
-bye fo1 now
+CON Dear Welcome to MU-Bank. what would you like to Do?
+1.Account Balance
+2.Mini Statement 
